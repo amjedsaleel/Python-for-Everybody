@@ -1,3 +1,3 @@
 word = 'amjed'
 
-print(word[0])
+print(word[20])
