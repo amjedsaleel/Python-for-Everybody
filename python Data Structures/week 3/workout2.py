@@ -16,4 +16,3 @@ for line in files:
     line = line.rstrip()
     count += 1
 print('Total lines:', count)
-
